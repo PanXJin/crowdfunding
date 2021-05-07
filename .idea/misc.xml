@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/crowdfunding02-webui" />
+    <file type="web" url="file://$PROJECT_DIR$/crowdfunding06-reverse" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/crowdfunding01/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfunding02/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding03-component/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfunding01-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfunding02-webui/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfunding03-component/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfunding04-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfunding05-util/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfunding/crowdfunding06-reverse/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfunding06-reverse/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/crowdfunding01-parent/untitled/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" project-jdk-name="10" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

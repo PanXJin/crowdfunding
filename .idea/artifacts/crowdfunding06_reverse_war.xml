@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crowdfunding06-reverse:war">
+    <output-path>$PROJECT_DIR$/crowdfunding06-reverse/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>crowdfunding06-reverse</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="crowdfunding06-reverse.war">
+      <element id="artifact" artifact-name="crowdfunding06-reverse:war exploded" />
+    </root>
+  </artifact>
+</component>
